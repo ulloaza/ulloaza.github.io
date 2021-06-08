@@ -117,8 +117,8 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(38,139,210)
+      accent_color:    rgb(143,3,3)
+      theme_color:     rgb(143,3,3)
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
